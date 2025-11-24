@@ -1,5 +1,3 @@
-# AI Engineer Profile (Synthesis)
-
 **Mohamed Aziz Ben Amar** | Final-Year Software Engineering Student
 
 Final-year Software Engineering student with a strong interest in **Artificial Intelligence** and hands-on experience building AI-driven applications.
